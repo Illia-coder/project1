@@ -1,0 +1,61 @@
+{   "users" : [
+        {
+            "id":1,
+            "name": "Illia",
+            "surname": "Robocodovich",
+            "photo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/640px-American_Beaver.jpg",
+            "balance": 2000
+        }
+    ],
+    "products" :[
+        {
+        "name": "Мережевий модуль для Arduino Ethernet Shield W5100",
+        "photo_url":"https://robostore.com.ua/content/images/40/1500x1500l80bc40/setevoy-modul-dlja-arduino-ethernet-shield-w5100-97443263494756.webp",
+        "price":1000,
+        "description":"This is board for programming"
+    },
+    {
+        "name": "Модуль інфрачервоного датчик руху HC-SR505 міні для Arduino",
+        "photo_url":"https://robostore.com.ua/content/images/4/1500x1500l80bc40/modul-infrakrasnyy-datchik-dvizhenija-dlja-arduino-mini-hc-sr505-95288644398644.webp",
+        "price": 250,
+        "descroption":"Датчики руху, відстані"
+    },
+    {
+        "name": "ІЧ-пульт для Arduino",
+        "photo_url":"https://robostore.com.ua/content/images/41/1500x1500l80bc40/ik-pult-dlja-arduino-13343160281413.webp",
+        "price": 120,
+        "descroption":"Артикул: 000558"
+    },
+    {
+        "name": "Модуль RGB світлодіодне кільце WS2812 (24 Led) для Arduino",
+        "photo_url":"https://robostore.com.ua/content/images/28/1500x1500l80bc40/modul-rgb-svetodiodnoe-kolco-ws2812-24-led-dlja-arduino-30102397968676.webp",
+        "price": 139,
+        "descroption":"Артикул: 000558"
+    },
+    {
+        "name": "Сервопривод MG90S Micro 180°",
+        "photo_url":"https://robostore.com.ua/content/images/37/1500x1500l80bc40/servoprivod-mg90s-micro-180-32963286151209.webp",
+        "price": 435,
+        "descroption":"Сервопривід Tower Pro MG90S Micro 180° Metal Gear — це компактний сервопривід, який забезпечує точне та надійне керування рухом для ваших проектів. Його невеликий розмір, міцні металеві шестерні та широкий кут руху роблять його ідеальним для різноманітних застосувань."
+    },
+    {
+        "name": "Світлодіод вивідний Led 10мм 3В (білий холодний)",
+        "photo_url":"https://robostore.com.ua/content/images/43/1500x1500l80bc40/svetodiod-vyvodnoy-led-10mm-3v-belyy-xolodnyy-100sht.-64687518799972.webp",
+        "price": 20,
+        "descroption":"Артикул: 001002"
+    },
+    {
+        "name": "Відладочна плата ESP-32",
+        "photo_url":"https://robostore.com.ua/content/images/2/1500x1500l80bc40/otladochnaja-plata-esp-32-82999369090286.webp",
+        "price": 678,
+        "descroption":"Артикул: 000212"
+    },
+    {
+        "name": "Тестер CCPM для серво і контролерів ESC",
+        "photo_url":"https://robostore.com.ua/content/images/50/687x587l80bc40/kley-silikonovyy-dlya-termopistoleta-11-mm-5-sht.-zheltyy-24280358765162.webp",
+        "price": 142,
+        "descroption":"Артикул: 001440"
+    }
+    
+    ]
+}
